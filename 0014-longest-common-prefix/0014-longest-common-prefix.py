@@ -10,7 +10,8 @@ class Solution:
                 if i == len(strs[j]) or strs[j][i] != char:
                     
                     return strs[0][:i]
-        return strs[0]
+            
+        return strs[0] # it is necessary when yyou have just one word or ""
 
         if not strs:
              return ""
