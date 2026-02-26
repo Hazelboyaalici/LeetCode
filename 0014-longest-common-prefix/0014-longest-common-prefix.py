@@ -11,7 +11,7 @@ class Solution:
                     
                     return strs[0][:i]
             
-        return strs[0] # it is necessary when yyou have just one word or ""
+        return strs[0] # it is necessary when you have just one word or ""
 
         if not strs:
              return ""
