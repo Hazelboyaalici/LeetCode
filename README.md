@@ -8,11 +8,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Hazelboyaalici/LeetCode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Hazelboyaalici/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0706-design-hashmap](https://github.com/Hazelboyaalici/LeetCode/tree/master/0706-design-hashmap) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Hazelboyaalici/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Hazelboyaalici/LeetCode/tree/master/0013-roman-to-integer) |
+| [0706-design-hashmap](https://github.com/Hazelboyaalici/LeetCode/tree/master/0706-design-hashmap) |
 ## Math
 |  |
 | ------- |
@@ -27,4 +29,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Hazelboyaalici/LeetCode/tree/master/0014-longest-common-prefix) |
+## Linked List
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/Hazelboyaalici/LeetCode/tree/master/0706-design-hashmap) |
+## Design
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/Hazelboyaalici/LeetCode/tree/master/0706-design-hashmap) |
+## Hash Function
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/Hazelboyaalici/LeetCode/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
