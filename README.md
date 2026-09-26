@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Hazelboyaalici/LeetCode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Hazelboyaalici/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0027-remove-element](https://github.com/Hazelboyaalici/LeetCode/tree/master/0027-remove-element) |
 | [0706-design-hashmap](https://github.com/Hazelboyaalici/LeetCode/tree/master/0706-design-hashmap) |
 | [0845-longest-mountain-in-array](https://github.com/Hazelboyaalici/LeetCode/tree/master/0845-longest-mountain-in-array) |
 ## Hash Table
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Hazelboyaalici/LeetCode/tree/master/0027-remove-element) |
 | [0845-longest-mountain-in-array](https://github.com/Hazelboyaalici/LeetCode/tree/master/0845-longest-mountain-in-array) |
 ## Dynamic Programming
 |  |
